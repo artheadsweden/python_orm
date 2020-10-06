@@ -1,0 +1,9 @@
+User                EmailAddress
+id                  id
+name                email
+created             user_id
+
+User
+id
+name
+addresses []
